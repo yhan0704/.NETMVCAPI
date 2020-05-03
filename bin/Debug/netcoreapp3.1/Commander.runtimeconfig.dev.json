@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/flatironschool/.dotnet/store/|arch|/|tfm|",
+      "/Users/flatironschool/.nuget/packages"
+    ]
+  }
+}
